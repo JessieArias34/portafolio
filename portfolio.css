@@ -46,7 +46,7 @@ body {
 
   header {
     background: linear-gradient( rgb(184, 104, 135), rgba(40, 173, 226, 0.555)), /* bottom, image */
-    url(compu.png);
+    url(compu.PNG);
     background-size: cover;
     background-position: center top;
     width: 100%;
